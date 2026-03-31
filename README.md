@@ -21,5 +21,5 @@ I am a Python developer passionate about Machine Learning, software optimization
 ---
 
 ### 📫 Connect with me:
-- **Telegram:** [[Me](https://t.me/your_sheff)]
+- **Telegram:** [[Me](https://t.me/D12nzo)]
 - **City:** Krasnoyarsk, Russia 🇷🇺
