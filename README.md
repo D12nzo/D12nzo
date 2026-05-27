@@ -16,7 +16,7 @@ I am a Python Developer focused on **Machine Learning** and **Data Engineering**
 
 ---
 
-### 🏗 Featured Project: [House Prices Prediction Pipeline](https://github.com/D12nzo/house-prices)
+### 🏗 Featured Project: [House Prices Prediction Pipeline](https://github.com/D12nzo/house-prices-project)
 
 An end-to-end ML pipeline for real estate price prediction, built with a focus on engineering best practices.
 
