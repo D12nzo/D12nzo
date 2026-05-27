@@ -36,5 +36,5 @@ An end-to-end ML pipeline for real estate price prediction, built with a focus o
 ---
 
 ### 📫 Connect with me:
-- **Telegram:** [[Me](https://t.me/D12nzo)]
+- **Telegram:** [D12nzo](https://t.me/D12nzo)
 - **City:** Krasnoyarsk, Russia 🇷🇺
